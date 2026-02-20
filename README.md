@@ -1,27 +1,11 @@
-# 学习优化方法及应用
 
-## 项目简介
-
-本网站是《学习优化方法及应用》（Learning to Optimize and its Applications）书籍的官方主页。
-
-> **说明**：本项目 fork 自 [alshedivat/al-folio](https://github.com/alshedivat/al-folio)，如需了解完整的功能特性、配置说明和使用方法，请参考原仓库的详细文档。
-
-## 页面更新
-
-- 所有图片的保存地址: assets/img/
-
-### 《学习优化方法及应用》介绍页（主页）
-
-**文件位置**：[`_pages/l2obook.md`](_pages/l2obook.md)
-
-**页面功能**：这是网站的主要介绍页面，展示《学习优化方法及应用》书籍的详细信息。
 
 **修改指南**：
 - 编辑该文件可以更新书籍的基本信息和介绍内容
 - 支持 Markdown 格式，可以添加图片、链接、表格等
 - 修改后保存即可，网站会自动更新（网页上线需要1-3分钟）
 
-### 个人主页
+### 个人主页 https://cse.sysu.edu.cn/teacher/WangJiahai
 
 **文件位置**：[`_pages/about.md`](_pages/about.md)
 
