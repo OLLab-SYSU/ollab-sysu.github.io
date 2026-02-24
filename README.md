@@ -1,4 +1,11 @@
+### Selected Publications:
+ Publication by topic is available here and Publication by date is available at https://cse.sysu.edu.cn/teacher/WangJiahai.
 
+**Deep Learning/Foundation Models with Applications**
+
+**Learning to Optimize/Neural Combinatorial Optimization with Applications**
+
+**Intelligent Optimization ALgorithms/Meta-Heuristics with applications**
 
 **修改指南**：
 - 编辑该文件可以更新书籍的基本信息和介绍内容
