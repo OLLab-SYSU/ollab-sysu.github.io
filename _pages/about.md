@@ -12,7 +12,7 @@ profile:
   image_circular: false # 是否将图片裁剪为圆形
 ---
 # Jiahai Wang, Full Professor
-
+## Optimization and Learning Lab. (OLLab), Sun Yat-sen University, P.R. China
 Research interests include 1) Foundation Models/Deep Learning; 2) Learning to Optimize/Neural Combinatorial Optimization; and 3) Intelligent Optimization Algorithms/Meta-Heuristics and their applications.
 
 ## Selected Publications:
