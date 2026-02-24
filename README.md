@@ -1,4 +1,4 @@
-# Sun Yat-Sen University OLLab
+# Optimization and Learning Lab. (OLLab), Sun Yat-Sen University 
 
 ## 主页仓库使用说明
 
