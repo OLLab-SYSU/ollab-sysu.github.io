@@ -8,7 +8,27 @@
 
 #### 可编辑文件
 目前允许修改的页面：
-- **`_pages/about.md`** - 主页内容文件
+- 主页: **[`_pages/about.md`](_pages/about.md)**
+
+⚠️⚠️⚠️ 需注意，`_pages/about.md`的文件头请谨慎修改。如下样例所示，文件头即为文件开头双横线框柱的内容。
+
+```text
+
+---
+layout: about
+title: about
+permalink: /
+
+nav: false
+nav_order: 1
+
+profile:
+  align: right
+  image: ollab.png
+  image_circular: false # 是否将图片裁剪为圆形
+---
+
+```
 
 #### 编辑指南
 1. **文件位置**：`_pages/about.md`
@@ -27,20 +47,12 @@
 
 ### 🎨 Markdown 语法参考
 
-一些常用的 Markdown 语法：
-- **标题**：`# 一级标题`、`## 二级标题`、`### 三级标题`
-- **粗体**：`**粗体文字**`
-- **斜体**：`*斜体文字*`
-- **链接**：`[链接文字](URL)`
-- **图片**：`![图片描述](图片路径)`
-- **列表**：使用 `-` 或 `1.` 开头
-- **代码**：使用反引号 `` `代码` ``
+[Markdown 教程](https://markdown.com.cn/basic-syntax/)
 
 ### 🌐 网站访问
 
 - **GitHub Pages 地址**：https://ollab-sysu.github.io/
 - **个人主页**：https://cse.sysu.edu.cn/teacher/WangJiahai
-```
 
 ### 📧 问题反馈
 
