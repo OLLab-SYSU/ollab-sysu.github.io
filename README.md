@@ -1,4 +1,4 @@
-# Sun Yat-Sen University Optimization Learning Lab
+# Sun Yat-Sen University OLLab
 
 ## 主页仓库使用说明
 
