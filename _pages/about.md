@@ -1,14 +1,14 @@
 ---
 layout: about
-title: 关于作者
-permalink: /about/
+title: about
+permalink: /
 
-nav: true
+nav: false
 nav_order: 1
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ollab.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>这里可以填充图片标题</p>
@@ -27,10 +27,29 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-# Author Name
+### Selected Publications:
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Publication by topic is available here and Publication by date is available at https://cse.sysu.edu.cn/teacher/WangJiahai.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**Deep Learning/Foundation Models with Applications**
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Learning to Optimize/Neural Combinatorial Optimization with Applications**
+
+**Intelligent Optimization ALgorithms/Meta-Heuristics with Applications**
+
+
+**修改指南**：
+- 编辑该文件可以更新书籍的基本信息和介绍内容
+- 支持 Markdown 格式，可以添加图片、链接、表格等
+- 修改后保存即可，网站会自动更新（网页上线需要1-3分钟）
+
+### 个人主页 
+
+https://cse.sysu.edu.cn/teacher/WangJiahai
+
+**页面功能**：这是作者的个人介绍页面，展示个人基本信息和学术背景。
+
+**修改指南**：
+- 编辑该文件可以更新个人的基本信息和介绍内容
+- 支持 Markdown 格式，可以添加图片、链接、表格等
+- 修改后保存即可，网站会自动更新（网页上线需要1-3分钟）
