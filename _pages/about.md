@@ -31,6 +31,10 @@ Publication by topic is available here and Publication by date is available at h
   
 - Meixiu Long, Jiahai Wang*, Junxiao Ma, Jianpeng Zhou, Siyuan Chen, LLM-augmented entity alignment: An unsupervised and training-free framework, Neural Networks, vol.194, 108139, 2026.
 
+- Siyuan Chen, Xin Du, Jiahai Wang*, A hierarchical framework with spatio-temporal consistency learning for emergence detection in complex adaptive systems, IEEE Transactions on Neural Networks and Learning Systems, vol.36, no.7, pp.13373-13386, July 2025.
+
+- Siyuan Chen, Jiahai Wang*, Heterogeneous interaction modeling with reduced accumulated error for multi-agent trajectory prediction, IEEE Transactions on Neural Networks and Learning Systems, vol.35, no.6, pp.8084-8052, June 2024.
+
 ### Learning to Optimize/Neural Combinatorial Optimization with Applications
 
 - Zhanhong Fang, Debing Wang, Jinbiao Chen, Jiahai Wang, Zizhen Zhang, UCPO: A universal constrained combinatorial optimization method via preference optimization, AAAI 2026.
@@ -68,7 +72,7 @@ Publication by topic is available here and Publication by date is available at h
 
 - Jiahai Wang, Binzhong Chen, Shangce Gao, Zizhen Zhang, Yuren Zhou, “Cooperative evolutionary framework with focused search for many-objective optimization,” IEEE Transactions on Emerging Topics in Computational Intelligence, vol.4, no.3, pp.398-412, June 2020
 
--Jiahai Wang, Guanxi Liang, Jun Zhang, “Cooperative differential evolution framework for constrained multiobjective optimization,” IEEE Transactions on Cybernetics, vol.49, no.6, pp.2060-2072, June 2019.
+- Jiahai Wang, Guanxi Liang, Jun Zhang, “Cooperative differential evolution framework for constrained multiobjective optimization,” IEEE Transactions on Cybernetics, vol.49, no.6, pp.2060-2072, June 2019.
 
 - Jiahai Wang, Jianjun Liao, Ying Zhou, Yiqiao Cai, “Differential evolution enhanced with multiobjective sorting based mutation operators,” IEEE Transactions on Cybernetics, vol.44, no.12, pp.2792-2805, 2014. 
 
