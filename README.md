@@ -5,7 +5,8 @@
 
 **Learning to Optimize/Neural Combinatorial Optimization with Applications**
 
-**Intelligent Optimization ALgorithms/Meta-Heuristics with applications**
+**Intelligent Optimization ALgorithms/Meta-Heuristics with Applications**
+
 
 **修改指南**：
 - 编辑该文件可以更新书籍的基本信息和介绍内容
