@@ -17,7 +17,7 @@ Research interests include 1) Foundation Models/Deep Learning; 2) Learning to Op
 
 ## Selected Publications:
 
-Publication by topic is available here and Publication by date is available at https://cse.sysu.edu.cn/teacher/WangJiahai.
+Publication by topic is available here and Publication by date is available at <https://cse.sysu.edu.cn/teacher/WangJiahai>.
 
 ### Foundation Models/Deep Learning with Applications
 
@@ -66,7 +66,6 @@ Publication by topic is available here and Publication by date is available at h
 - Jiahai Wang, Taiyao Weng, Qingfu Zhang, “A two-stage multiobjective evolutionary algorithm for multiobjective multi-depot vehicle routing problem with time windows,” IEEE Transactions on Cybernetics, vol.49, no.7, pp.2467-2478, 2019.
  
 - Jiahai Wang, Ying Zhou, Yong Wang, Jun Zhang, C.L. Philip Chen, and Zibin Zheng, “Multiobjective vehicle routing problems with simultaneous delivery and pickup and time windows: formulation, instances and algorithms,” IEEE Transactions on Cybernetics, vol.46, no.3, pp.582-594, 2016. 
-
 
 - Jiahai Wang, Yanyue Li, Qingfu Zhang, Zizhen Zhang, Shangce Gao, “Cooperative multiobjective evolutionary algorithm with propulsive population for constrained multiobjective optimization,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol.52, no.6, pp.3476-3491, 2022.
 
