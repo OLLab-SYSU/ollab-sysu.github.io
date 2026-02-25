@@ -47,7 +47,7 @@ Publication by topic is available here and Publication by date is available at [
 
 - Pei Xiao, Zizhen Zhang, Jinbiao Chen, Jiahai Wang, Zhenzhen Zhang, Neural combinatorial optimization for robust routing problem with uncertain travel times, NeurIPS 2024.
 
-- Jinbiao Chen, Jiahai Wang*, Zizhen Zhang*, Zhiguang Cao, Te Ye, Siyuan Chen, Efficient meta neural heuristic for multi-objective combinatorial optimization, NeurIPS 2023.
+- Jinbiao Chen, Jiahai Wang\*, Zizhen Zhang\*, Zhiguang Cao, Te Ye, Siyuan Chen, Efficient meta neural heuristic for multi-objective combinatorial optimization, NeurIPS 2023.
 
 - Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, Yining Ma, Te Ye, Jiahai Wang*, Neural multi-objective combinatorial optimization with diversity enhancement, NeurIPS 2023.
 
