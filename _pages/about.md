@@ -11,15 +11,15 @@ profile:
   image: ollab.png
   image_circular: false # 是否将图片裁剪为圆形
 ---
-# Jiahai Wang, Full Professor
-## Optimization and Learning Lab., Sun Yat-sen University, P.R. China
+## **Jiahai Wang**, Full Professor
+#### Optimization and Learning Lab., Sun Yat-sen University, P.R. China
 Research interests include 1) Foundation Models/Deep Learning; 2) Learning to Optimize/Neural Combinatorial Optimization; and 3) Intelligent Optimization Algorithms/Meta-Heuristics and their applications.
 
-## Selected Publications:
+### Selected Publications:
 
 Publication by topic is available here and Publication by date is available at <https://cse.sysu.edu.cn/teacher/WangJiahai>.
 
-### Foundation Models/Deep Learning with Applications
+#### Foundation Models/Deep Learning with Applications
 
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Combination-of-expert with knowledge sharing for cross-task vehicle routing problems, ICLR 2026.
 
@@ -35,7 +35,7 @@ Publication by topic is available here and Publication by date is available at <
 
 - Siyuan Chen, Jiahai Wang*, Heterogeneous interaction modeling with reduced accumulated error for multi-agent trajectory prediction, IEEE Transactions on Neural Networks and Learning Systems, vol.35, no.6, pp.8084-8052, June 2024.
 
-### Learning to Optimize/Neural Combinatorial Optimization with Applications
+#### Learning to Optimize/Neural Combinatorial Optimization with Applications
 
 - Zhanhong Fang, Debing Wang, Jinbiao Chen, Jiahai Wang, Zizhen Zhang, UCPO: A universal constrained combinatorial optimization method via preference optimization, AAAI 2026.
   
@@ -55,7 +55,7 @@ Publication by topic is available here and Publication by date is available at <
 
 - Jiahai Wang, “Hopfield neural network based on estimation of distribution for two-page crossing number problem,” IEEE Transactions on Circuits and Systems II: Express Briefs, vol.55, no.8, pp.797-801, 2008. 
 
-### Intelligent Optimization Algorithms/Meta-Heuristics with Applications
+#### Intelligent Optimization Algorithms/Meta-Heuristics with Applications
 
 - Jiahai Wang, Liangsheng Yuan, Zizhen Zhang, Shangce Gao, Yuyan Sun, Yalan Zhou, “Multiobjective multiple neighborhood search algorithms for multiobjective fleet size and mix location-routing problem with time windows,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol.51.no.4, pp.2284-2298, 2021.
 
