@@ -17,7 +17,7 @@ Research interests include 1) Foundation Models/Deep Learning; 2) Learning to Op
 
 ### Selected Publications:
 
-Publication by topic is available here and Publication by date is available at <https://cse.sysu.edu.cn/teacher/WangJiahai>.
+Publication by topic is available here and Publication by date is available at [CSE@SYSU](https://cse.sysu.edu.cn/teacher/WangJiahai).
 
 #### Foundation Models/Deep Learning with Applications
 
