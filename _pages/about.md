@@ -14,7 +14,13 @@ profile:
 ## **Jiahai Wang**, Full Professor
 **Optimization and Learning Lab., Sun Yat-sen University, P.R. China**
 
-Research interests include 1) Foundation Models/Deep Learning; 2) Learning to Optimize/Neural Combinatorial Optimization; and 3) Intelligent Optimization Algorithms/Meta-Heuristics and their applications.
+Research interests include 1) **Foundation Models/Deep Learning**; 2) **Learning to Optimize/Neural Combinatorial Optimization**; and 3) **Intelligent Optimization Algorithms/Meta-Heuristics** and their **Applications**.
+
+### Monograph
+
+- Learning to Optimize with Applications (In Chinese), Science Press, Jiahai Wang, Zizhen Zhang, Jinbiao Chen et al., 2026, https://github.com/OLLab-SYSU/L2OApp.
+
+- Foundation Models for Optimization and Reasoning, Springer, Jiahai Wang et al., (In preparation), https://github.com/OLLab-SYSU/FM4OR.
 
 ### Selected Publications:
 
