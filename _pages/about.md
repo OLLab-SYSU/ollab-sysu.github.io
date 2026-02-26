@@ -44,7 +44,7 @@ Publication by topic is available here and Publication by date is available at [
 
 - Siyuan Chen, Jiahai Wang*, Heterogeneous interaction modeling with reduced accumulated error for multi-agent trajectory prediction, IEEE Transactions on Neural Networks and Learning Systems, vol.35, no.6, pp.8084-8052, June 2024.
 
-- Zhiyue Liu, Jiahai Wang*, Zhiwei Liang, “CatGAN: Category-aware generative adversarial networks with hierarchical evolutionary learning for category text generation,” The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020), vol.34, no.5, pp.8425-8432.
+- Zhiyue Liu, Jiahai Wang*, Zhiwei Liang, “CatGAN: Category-aware generative adversarial networks with hierarchical evolutionary learning for category text generation,” AAAI 2020, vol.34, no.5, pp.8425-8432.
 
 #### Learning to Optimize/Neural Combinatorial Optimization with Applications
 
