@@ -11,7 +11,9 @@ profile:
   image: ollab.png
   image_circular: false # 是否将图片裁剪为圆形
 ---
-## **Jiahai Wang**, Full Professor
+## **Jiahai Wang**
+**Full Professor**
+
 **Optimization and Learning Lab., Sun Yat-sen University, P.R. China**
 
 Research interests include 1) **Foundation Models/Deep Learning**; 2) **Learning to Optimize/Neural Combinatorial Optimization**; and 3) **Intelligent Optimization Algorithms/Meta-Heuristics** and their **Applications**.
@@ -42,6 +44,8 @@ Publication by topic is available here and Publication by date is available at [
 
 - Siyuan Chen, Jiahai Wang*, Heterogeneous interaction modeling with reduced accumulated error for multi-agent trajectory prediction, IEEE Transactions on Neural Networks and Learning Systems, vol.35, no.6, pp.8084-8052, June 2024.
 
+- Zhiyue Liu, Jiahai Wang*, Zhiwei Liang, “CatGAN: Category-aware generative adversarial networks with hierarchical evolutionary learning for category text generation,” The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020), vol.34, no.5, pp.8425-8432.
+
 #### Learning to Optimize/Neural Combinatorial Optimization with Applications
 
 - Zhanhong Fang, Debing Wang, Jinbiao Chen, Jiahai Wang, Zizhen Zhang, UCPO: A universal constrained combinatorial optimization method via preference optimization, AAAI 2026.
@@ -57,6 +61,8 @@ Publication by topic is available here and Publication by date is available at [
 - Jinbiao Chen, Jiahai Wang\*, Zizhen Zhang\*, Zhiguang Cao, Te Ye, Siyuan Chen, Efficient meta neural heuristic for multi-objective combinatorial optimization, NeurIPS 2023.
 
 - Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, Yining Ma, Te Ye, Jiahai Wang*, Neural multi-objective combinatorial optimization with diversity enhancement, NeurIPS 2023.
+
+- Jieyi Bi, Yining Ma, Jiahai Wang\*, Zhiguang Cao\*, Jinbiao Chen, Yuan Sun, Yeow Meng Chee, Learning generalizable models for vehicle routing problems via knowledge distillation, NeurIPS 2022.
 
 - Jiahai Wang, Yalan Zhou, Jian Yin, Yunong Zhang, “Competitive Hopfield network combined with estimation of distribution for maximum diversity problems,” IEEE Transactions on Systems, Man, and Cybernetics-Part B: Cybernetics, vol.39, no.4, pp.1048-1066, Aug. 2009.
 
