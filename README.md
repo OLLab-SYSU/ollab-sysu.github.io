@@ -1,4 +1,5 @@
-# Optimization and Learning Lab., Sun Yat-Sen University 
+## https://ollab-sysu.github.io/
+## Optimization and Learning Lab., Sun Yat-Sen University 
 
 ## 主页仓库使用说明
 
@@ -48,11 +49,6 @@ profile:
 ### 🎨 Markdown 语法参考
 
 [Markdown 教程](https://markdown.com.cn/basic-syntax/)
-
-### 🌐 网站访问
-
-- **GitHub Pages 地址**：https://ollab-sysu.github.io/
-- **个人主页**：https://cse.sysu.edu.cn/teacher/WangJiahai
 
 ### 📧 问题反馈
 
