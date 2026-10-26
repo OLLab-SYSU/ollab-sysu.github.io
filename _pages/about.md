@@ -30,6 +30,8 @@ Publication by topic is available here and Publication by date is available at [
 
 #### Foundation Models/Deep Learning with Applications
 
+- Zhiyue Liu, Jian Qin, Wenkai Zhou, Qipeng Jiang, Qingbao Huang, Jiahai Wang, A unified framework for large-foundation-model-based multi-phrasing synthetic VQA data generation and downstream VQA training, Information Processing and Management, vol.64, 105255, 2027.
+
 - Chenhui Liu, Jianpeng Zhou, Jiahai Wang*, Chain-of-relations: Faithful and efficient LLM reasoning over knowledge graphs via relation-centric exploration, ACL 2026 Findings.
 
 - Jianpeng Zhou, Qisheng Hu, Jiahai Wang\*, Wenya Wang\*, Policy-guided stepwise action planning for controllable LLM reasoning, ACL 2026 Findings.
