@@ -64,6 +64,8 @@ Publication by topic is available here and Publication by date is available at [
 
 - Zhiyuan Chu, Zikang Yu, Jiahai Wang*, et al., PAEvo: Plan-algorithm evolution with LLMs for automatic heuristic design, PPSN 2026.
  
+- Zhanhong Fang, Jinbiao Chen, Jiahai Wang, Zizhen Zhang, Learning improvement heuristic via spatio-temporal encoder for pickup and delivery problem with time windows, ACM Transactions on Intelligent Systems and Technology, 2026.
+
 - Yuanxu Yang, Zikang Yu, Jiahai Wang*, et al., Learning to solve complex constrained routing problems with feasibility-guided reward and diversity-guided policy, PPSN 2026.
 
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Combination-of-expert with knowledge sharing for cross-task vehicle routing problems, ICLR 2026.
