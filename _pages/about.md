@@ -28,7 +28,7 @@ Research interests include 1) **Foundation Models/Deep Learning**; 2) **Learning
 
 Publication by topic is available here and Publication by date is available at [CSE@SYSU](https://cse.sysu.edu.cn/teacher/WangJiahai).
 
-#### Foundation Models/Deep Learning with Applications
+#### Foundation Models/Deep Learning with Applications (AI4S)
 
 - Zhiyue Liu, Jian Qin, Wenkai Zhou, Qipeng Jiang, Qingbao Huang, Jiahai Wang, A unified framework for large-foundation-model-based multi-phrasing synthetic VQA data generation and downstream VQA training, Information Processing and Management, vol.64, 105255, 2027.
 
